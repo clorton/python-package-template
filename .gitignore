@@ -1,2 +1,5 @@
-**/__pycache__/
-cwl.egg-info/
+# Compiled Python modules
+*.pyc
+
+# Python egg metadata, regenerated from source files by setuptools
+/*.egg-info
